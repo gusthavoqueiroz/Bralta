@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Bem vindo ao BRALTA</title>
+    <title>Login de usuário</title>
     @viteReactRefresh
     @vite(['resources/js/app.jsx'])
 </head>
